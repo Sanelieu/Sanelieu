@@ -7,9 +7,9 @@
 # Big head, no brain ⌫
 
 Current worksㅤ 🌼ㅤ:ㅤ
-![](https://custom-icon-badges.demolab.com/badge/Javascript-grey.svg?logo=javascript&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/GO-grey.svg?logo=go&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/Crystal-grey.svg?logo=crystal&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/Javascript-grey.svg?logo=javascript&logoColor=pink)
+![](https://custom-icon-badges.demolab.com/badge/GO-grey.svg?logo=go&logoColor=pink)
+![](https://custom-icon-badges.demolab.com/badge/Crystal-grey.svg?logo=crystal&logoColor=pink)
 
 Want to learnㅤ 🌼ㅤ:ㅤ
 ![](https://custom-icon-badges.demolab.com/badge/C#-pink.svg?logo=csharp&logoColor=white)
@@ -19,11 +19,11 @@ Want to learnㅤ 🌼ㅤ:ㅤ
 ![](https://custom-icon-badges.demolab.com/badge/Dart-pink.svg?logo=dart&logoColor=white)
 
 IDEㅤ 🌼ㅤ:ㅤ
-![](https://custom-icon-badges.demolab.com/badge/GoLand-grey.svg?logo=goland&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/RubyMine-grey.svg?logo=rubymine&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/PyCharm-grey.svg?logo=pycharm&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/VSCode-grey.svg?logo=vscode&logoColor=white)
-![](https://custom-icon-badges.demolab.com/badge/Fleet-grey.svg?logo=jetbrains&logoColor=white)
+![](https://custom-icon-badges.demolab.com/badge/GoLand-grey.svg?logo=goland&logoColor=pink)
+![](https://custom-icon-badges.demolab.com/badge/RubyMine-grey.svg?logo=rubymine&logoColor=pink)
+![](https://custom-icon-badges.demolab.com/badge/PyCharm-grey.svg?logo=pycharm&logoColor=pink)
+![](https://custom-icon-badges.demolab.com/badge/VSCode-grey.svg?logo=vscode&logoColor=pink)
+![](https://custom-icon-badges.demolab.com/badge/Fleet-grey.svg?logo=jetbrains&logoColor=pink)
 
 Utilsㅤ 🌼ㅤ:ㅤ
 ![](https://custom-icon-badges.demolab.com/badge/NPM-pink.svg?logo=npm&logoColor=white)
